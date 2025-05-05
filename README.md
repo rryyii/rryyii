@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an aspiring software engineer and current student at James Madison University with a deep interest in developing applications related to my passions, including video games, fitness, and e-sports.
+I'm an aspiring developer and current student at James Madison University with a deep interest in developing applications related to my passions, including video games, fitness, and e-sports.
 * ⌨ I'm currently working with .py, .js .tsx, .java, .html, .css
 * 📖 I'm currently learning Spring Boot, PostgreSQL, ExpressJS, NodeJS, ReactJS
 
 ## Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/ryan-yi-34a689288/">
+  <a href="https://www.linkedin.com/in/ryan-yirw/">
     <img src="https://img.shields.io/badge/LINKEDIN-2D7CD2"/>
   </a>
 </p>
