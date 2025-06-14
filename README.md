@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an aspiring developer and current student at James Madison University with a deep interest in developing applications related to my passions, including video games, fitness, and e-sports.
+I'm an aspiring developer and recent graduate with a deep interest in developing applications related to my passions, including video games, fitness, and e-sports.
 * ⌨ I'm currently working with .py, .js .tsx, .java, .html, .css
 * 📖 I'm currently learning Spring Boot, PostgreSQL, ExpressJS, NodeJS, ReactJS
 
